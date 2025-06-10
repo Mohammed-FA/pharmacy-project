@@ -1,0 +1,213 @@
+{
+    "NavBar": {
+        "home": "Home",
+        "offers": "Offers",
+        "doctors": "Doctors",
+        "aboutUs": "About Us",
+        "bookNow": "Book Now",
+        "contactUs": "Contact Us"
+    },
+    "Department": {
+        "sections": "Sections",
+        "ophthalmology": "Ophthalmology",
+        "dermatology": "Dermatology",
+        "psychiatry": "Psychiatry",
+        "ent": "ENT",
+        "internalMedicine": "Internal Medicine",
+        "childrenDepartment": "Pediatrics",
+        "gynecology": "Gynecology"
+    },
+    "MegaMenu": {
+        "sections": "Mega Menu",
+        "megaMenuLink": "Mega sub menu",
+        "bookNow": "Book Now"
+    },
+    "locale": "en",
+    "aboutUs": {
+        "title": "About Us",
+        "clinicName": "Dr. Mousa Maher Medical Clinics",
+        "introText": "Simple ease to sell to individual customers or companies through a custom form approved by the store manager.",
+        "features": {
+            "clinicFeatures": "Clinic Features",
+            "workingHours": "Working Hours",
+            "team": "Team"
+        }
+    },
+    "searchForDoctor": {
+        "titleInfo": "Dr. Mousa Maher Clinics for Dental Implants and Cosmetic Dentistry",
+        "description": "We care for you at all times. Enjoy an easy and fast booking experience for your convenience.",
+        "learnMoreButton": "Learn More",
+        "search": "Find a doctor"
+    },
+    "selectBranch": "Choose an option",
+    "selectDepartment": "Select Department",
+    "selectTime": "Select Time",
+    "searchButton": "Search",
+    "selectBranchFirst": "Select a branch first",
+    "selectDepartmentFirst": "Select a department first",
+    "departments": {
+        "header": "Featured Departments",
+        "dermatology": "Dermatology",
+        "ophthalmology": "Ophthalmology",
+        "internalMedicine": "Internal Medicine",
+        "psychiatry": "Psychiatry",
+        "showall": "Show all"
+    },
+    "home": {
+        "latestOffers": "Latest Offers",
+        "ourDoctors": "Our Doctors",
+        "doctorsDescription": "We offer a variety of clinics and highly skilled doctors to serve you satisfactorily.",
+        "labOffers": {
+            "title": "Medical Lab Offers..!",
+            "description": "Enjoy a variety of offers from our labs to ensure your health today..",
+            "button": "Browse Offers"
+        },
+        "articlesAndNews": "Articles and News",
+        "viewAll": "Viwe All"
+    },
+    "BookNow": " Book Now",
+    "servece": {
+        "header": "Our Services",
+        "description": "We are distinguished by many clinics and highly qualified doctors to serve you satisfactorily."
+    },
+    "stats": {
+        "titleVisits": "Number of Visits",
+        "titleDoctors": "Number of Doctors",
+        "titleStaff": "Number of Staff",
+        "lastUpdated": "Last Updated",
+        "dates": {
+            "date1": "Tuesday, November 30, 2024",
+            "date2": "Recently Updated"
+        }
+    },
+    "insurancePartners": {
+        "header": "Our Insurance Partners",
+        "description": "We feature numerous clinics and doctors with high competency to serve you in a way that satisfies you."
+    },
+    "findMore": {
+        "title": "Certifications and Expertise",
+        "description": "We are proud to have received the most prestigious medical certifications and expertise.",
+        "buttonText": "Discover More"
+    },
+    "workingHours": {
+        "header": "Working Hours",
+        "saturdayToWednesday": "Saturday - Wednesday",
+        "workingHours": "9 AM - 10 PM",
+        "thursday": "Thursday",
+        "friday": "Friday",
+        "closed": "Closed",
+        "followUs": "Follow Us"
+    },
+    "searchPlaceholder": "Search for department, appointment..",
+    "languageArabic": "English",
+    "imageLan": "/Images/lang2.png",
+    "mainBranch": "Main Branch",
+    "langage": {
+        "title": "language",
+        "done": "OK"
+    },
+    "learnmore": "Learn More",
+    "showViedo": {
+        "title": "Dr. Mousa Maher Clinics for Dental Implant and Aesthetic Procedures",
+        "description": "Enjoy a variety of offers from our labs to ensure your health today."
+    },
+    "Footer": {
+        "storeDescription": "Demo Store - متجر تجريبي",
+        "importantLinks": "Important Links",
+        "blog": "Blog",
+        "aboutUs": "About Us",
+        "contactUs": "Contact Us",
+        "bookNow": "Book Now",
+        "contactUsTitle": "Contact Us",
+        "phone": "8001111210"
+    },
+    "offers": {
+        "titlePage": "Discounts",
+        "title": "Center Discounts",
+        "description": "We are proud to offer the best clinics and medical staff to take care of you around the clock for better health.",
+        "header": "Discounts - One Product"
+    },
+    "DoctorsPage": {
+        "titlePage": "Latest Products",
+        "title": "Our Doctors Care for You",
+        "description": "We take pride in offering the best clinics and medical staff to care for you and your loved ones around the clock for better health.",
+        "header": "Latest Products - 8 Products"
+    },
+    "BookedNow": {
+        "title": "Book Now",
+        "header": "Book Now"
+    },
+    "WhoUs": "About Us",
+    "ConcatUs": "Concat Us",
+    "Emtey": "No products found",
+    "Depts": {
+        "heading": "Here we begin life with a new start",
+        "description": "The Obstetrics and Gynecology department is proud of offering the best clinics and medical staff to care for you and your loved ones around the clock for your health."
+    },
+    "Fillter": {
+        "categories": "Product Categories",
+        "women_and_maternity": "Women and Maternity",
+        "price": "Price",
+        "from": "From SAR",
+        "to": "To SAR",
+        "clear_filters": "Clear Filters"
+    },
+    "seleteoption": {
+        "sort_by": "Sort by:",
+        "our_suggestions": "Our Suggestions",
+        "best_selling": "Best Selling",
+        "top_rated": "Top Rated",
+        "price_high_to_low": "Price: High to Low",
+        "price_low_to_high": "Price: Low to High",
+        "filter_and_sort": "Filter & Sort"
+    },
+    "doctor_not_found": "Doctor not found.",
+    "appointment_description_title": "Appointment Description",
+    "appointment_description": "Book an appointment with us and get a free review within a week.",
+    "follow_up_title": "Follow-Up Date",
+    "follow_up_description": "Details about the follow-up appointment.",
+    "important_notes_title": "Important Notes Before Your Appointment",
+    "important_notes_description": "Important reminders for your appointment.",
+    "products_you_might_like": "Products You Might Like",
+    "AppointmentCard": {
+        "doctorImageAlt": "Doctor image {index}",
+        "addToFavorites": "Add to Favorites",
+        "share": "Share",
+        "currency": "SAR",
+        "description": "This is an example description text.",
+        "attachments": "Attachments",
+        "addNote": "Add Note",
+        "attachFile": "Attach File",
+        "addNotePlaceholder": "Add your notes here",
+        "dropFileHere": "Drag and drop your file here",
+        "browse": "Browse",
+        "bookNow": "Book Now"
+    },
+    "Locations": {
+        "chooseBranch": "You are now browsing the store from",
+        "MainBranch": "MainBranch",
+        "MeccaBranch": "MeccaBranch",
+        "MadinahBranch": "MadinahBranch"
+    },
+    "loginpage": {
+        "login": "Login",
+        "email": "Email",
+        "email_placeholder": "Your@email.com",
+        "incorrect_email": "* Please check your email address",
+        "verification_required": "Verification code is required to complete the process",
+        "verification_sent": "The verification code has been sent to your email",
+        "check_code": "Verify",
+        "send_code_after": "You can resend after",
+        "send": "Send"
+    },
+    "shoppinPage": {
+        "cart": "Shopping Cart",
+        "empty_cart": "Your cart is empty",
+        "return_home": "Return to Home"
+    },
+    "blogpage": "Blog",
+    "FillterPageBlog": {
+        "public": "public",
+        "Categories": "Categories"
+    }
+}
